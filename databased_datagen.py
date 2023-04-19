@@ -1,6 +1,4 @@
 import random
-import random
-import random
 
 
 TUPLES = [[(a, random.randint(1, 200)) for a in range(1, 201)] for _ in range(3)]
